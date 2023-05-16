@@ -10,5 +10,9 @@ years.
 4. Get the total sales/bookings/rents/deliveries by geographical location (city/country).
 5. List all the locations where products/services were sold, and the product has customer’s ratings
 
+Bonus tasks:
+- Create 2 triggers:
+1. one for updates (you can choose any updating process, for example, if a product is sold, the trigger may update the available stock of products). 
+2. a trigger that inserts a row in a “log” table (ERD should include a log table).
 
 
